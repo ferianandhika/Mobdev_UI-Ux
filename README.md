@@ -1,3 +1,5 @@
 # Mobdev_UI-Ux
 
-Ferian Andhika Toasi (17090095)
+Nama	: Ferian Andhika Toasi 
+Kelas	: 6C
+Nim		: 17090095
